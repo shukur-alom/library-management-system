@@ -110,9 +110,9 @@ class own(Libary):
 
 #===============================================================================  
 # 1stgive book list,  2nd name 3d gamil, 4th password                          |
-owner = own.uu("admin-alam")  #owner ar address                                |
-shukur = Libary([],'Shukur Alam','shukuralom1234@gmail.com','shukur1234')  # x is Email and y is password #|
-alam = Libary([],'alam man','kingshukur1234@gmail.com','alam1234')           # x is Email and y is password #|
+owner = own.uu("admin-alam")                   #owner's address                |
+shukur = Libary([],'Shukur Alam','sx','y')     # x is Email and y is password #|
+alam = Libary([],'alam man','x','y')           # x is Email and y is password #|
                                                                               #|
 #===============================================================================
 
