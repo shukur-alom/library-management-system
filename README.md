@@ -1,6 +1,6 @@
 # Library Management System
 
-This Library Management System is a comprehensive solution for managing a library's operations. It includes features such as adding books, creating user accounts, purchasing books, viewing user books, and an admin panel for administrative tasks.
+This Library Management System is a comprehensive solution for managing a library's operations. It includes features such as adding books, purchasing books, viewing user books.
 
 ## Features
 
@@ -16,5 +16,5 @@ This Library Management System is a comprehensive solution for managing a librar
 1. **Installation**: Clone the repository and install the necessary dependencies.
 
    ```
-   git clone https://github.com/your-repo/library-management-system.git
+   https://github.com/shukur-alom/library-management-system.git
    ```
